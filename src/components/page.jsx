@@ -1,7 +1,5 @@
-export default function test {
-
+export default function TestPage() {
     return (
-
-        <h1>Her er min første side</h1>
-    )
+        <h1>Dette er en test</h1>
+    );
 }
