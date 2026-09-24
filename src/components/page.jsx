@@ -5,6 +5,7 @@ export default function TestPage() {
         <section><p>Dette er test nr 3</p></section>
         <section><p>Dette er test nr 4 - del A</p></section>
         <section><p>Dette er test nr 5 - del B</p></section>
+        <section><p>Dette er test nr 6</p></section>
     </>
     );
 }
